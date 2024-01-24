@@ -1,0 +1,402 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1298px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 37px 590px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  text-align: start;
+  margin: 0 37px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 440px;
+  height: 297px;
+  margin: -1107px 113px 0 auto;
+}
+
+.u-section-1 .u-map-1 {
+  height: 357px;
+  width: 440px;
+  margin: 0 113px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 390px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 170px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 100px;
+  }
+
+  .u-section-1 .u-map-1 {
+    margin-right: 100px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1182px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 230px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-map-1 {
+    width: 340px;
+    margin-right: 0;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 384px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 409px;
+  height: 296px;
+  margin: 44px auto 0 161px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: -232px 204px 108px 614px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 104px;
+    margin-left: 514px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+    margin-left: 398px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-image-1 {
+    margin-left: 131px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-bottom: 60px;
+    margin-left: 218px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 334px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 246px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -182px;
+    margin-left: 18px;
+  }
+}.u-block-6726-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-6726-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-6726-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-3-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Stroop_Report_-_Warsaw_Ghetto_Uprising_05.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-3-1 .u-text-1 {
+  text-align: left;
+  width: 421px;
+  margin: 20px auto 60px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-3-1 .u-text-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+}
+
+ .u-section-3-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/09_79.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-2 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-3-2 .u-text-1 {
+  text-align: left;
+  width: 421px;
+  margin: 20px auto 60px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-2 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-2 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-2 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-2 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-3-2 .u-text-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+}
+
+ .u-section-3-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/2-32066.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-3 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-3-3 .u-text-1 {
+  text-align: left;
+  width: 421px;
+  margin: 20px auto 60px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-3 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-3 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-3 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-3 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-3-3 .u-text-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+}
+
+ .u-section-3-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/stroop-report-warsaw-ghetto-uprising-07-2a793b-1024.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-4 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-3-4 .u-text-1 {
+  text-align: left;
+  width: 421px;
+  margin: 20px auto 60px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-4 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-4 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-4 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-4 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-3-4 .u-text-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+}
+
+ .u-section-3-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Stroop_Report_-_Warsaw_Ghetto_Uprising_04.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3-5 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-3-5 .u-text-1 {
+  text-align: left;
+  width: 421px;
+  margin: 20px auto 60px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-5 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-5 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-5 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-5 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-3-5 .u-text-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+}
+
+ .u-section-3-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/little-boy-warsaw-ghetto.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-3-6 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-3-6 .u-text-1 {
+  text-align: left;
+  width: 421px;
+  margin: 20px auto 60px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3-6 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3-6 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3-6 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3-6 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-3-6 .u-text-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+}
